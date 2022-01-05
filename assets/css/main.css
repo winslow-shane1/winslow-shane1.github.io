@@ -2110,7 +2110,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		background: url("../../images/banner.jpg");
 		background-size: cover;
-		padding: 10em 0;
+		padding: 1em 0;
 	}
 
 		#banner p {
